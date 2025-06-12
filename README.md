@@ -22,10 +22,8 @@ I'm a passionate freelancer specializing in Python development and building inno
 ---
 
 ### 📬 Contact
-
 **Are you an investor interested in the future of data platforms?**  
-Let’s connect! Please reach out via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/allen-george-56594bbb))—I’d love to discuss my startup and the vision behind mylath db.
-
+Let's connect! Please reach out via [LinkedIn](https://www.linkedin.com/in/allen-george-56594bbb)—I'd love to discuss my startup and the vision behind mylath db.
 ---
 
 <!--
